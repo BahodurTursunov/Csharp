@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdGtUlAqJk3//HTN5166af5v3POiUfyPvG2rZ0ymX3PF7d89LUmZx13g3OWCXaakj1GgV6AxGkKt8LHU2gZ5zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

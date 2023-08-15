@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\bin\Debug\net6.0\Lario and Muigi Pipe Problem.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\bin\Debug\net6.0\Lario and Muigi Pipe Problem.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\bin\Debug\net6.0\Lario and Muigi Pipe Problem.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\bin\Debug\net6.0\Lario and Muigi Pipe Problem.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\bin\Debug\net6.0\Lario and Muigi Pipe Problem.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\refint\Lario and Muigi Pipe Problem.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\Lario and Muigi Pipe Problem.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Lario and Muigi Pipe Problem\obj\Debug\net6.0\ref\Lario and Muigi Pipe Problem.dll

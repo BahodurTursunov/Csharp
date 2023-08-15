@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\bin\Debug\net6.0\tiyFizzBuzz.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\bin\Debug\net6.0\tiyFizzBuzz.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\bin\Debug\net6.0\tiyFizzBuzz.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\bin\Debug\net6.0\tiyFizzBuzz.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\bin\Debug\net6.0\tiyFizzBuzz.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\refint\tiyFizzBuzz.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\tiyFizzBuzz.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\tiyFizzBuzz\obj\Debug\net6.0\ref\tiyFizzBuzz.dll

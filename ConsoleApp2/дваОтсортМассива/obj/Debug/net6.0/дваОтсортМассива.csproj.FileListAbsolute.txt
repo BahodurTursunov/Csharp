@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\bin\Debug\net6.0\дваОтсортМассива.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\bin\Debug\net6.0\дваОтсортМассива.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\bin\Debug\net6.0\дваОтсортМассива.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\bin\Debug\net6.0\дваОтсортМассива.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\bin\Debug\net6.0\дваОтсортМассива.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\refint\дваОтсортМассива.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\дваОтсортМассива.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\дваОтсортМассива\obj\Debug\net6.0\ref\дваОтсортМассива.dll

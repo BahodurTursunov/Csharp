@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\bin\Debug\net6.0\Conloseapp1.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\bin\Debug\net6.0\Conloseapp1.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\bin\Debug\net6.0\Conloseapp1.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\bin\Debug\net6.0\Conloseapp1.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\bin\Debug\net6.0\Conloseapp1.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\refint\Conloseapp1.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\Conloseapp1.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Conloseapp1\obj\Debug\net6.0\ref\Conloseapp1.dll

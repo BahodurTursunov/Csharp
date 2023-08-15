@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\bin\Debug\Массивы и циклы.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\bin\Debug\Массивы и циклы.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\bin\Debug\Массивы и циклы.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\obj\Debug\Массивы и циклы.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\obj\Debug\Массивы и циклы.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\obj\Debug\Массивы и циклы.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\obj\Debug\Массивы и циклы.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Массивы и циклы\obj\Debug\Массивы и циклы.pdb

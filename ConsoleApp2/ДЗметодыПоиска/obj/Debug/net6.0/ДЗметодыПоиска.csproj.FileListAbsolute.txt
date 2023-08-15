@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\bin\Debug\net6.0\ДЗметодыПоиска.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\bin\Debug\net6.0\ДЗметодыПоиска.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\bin\Debug\net6.0\ДЗметодыПоиска.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\bin\Debug\net6.0\ДЗметодыПоиска.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\bin\Debug\net6.0\ДЗметодыПоиска.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\refint\ДЗметодыПоиска.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ДЗметодыПоиска.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗметодыПоиска\obj\Debug\net6.0\ref\ДЗметодыПоиска.dll

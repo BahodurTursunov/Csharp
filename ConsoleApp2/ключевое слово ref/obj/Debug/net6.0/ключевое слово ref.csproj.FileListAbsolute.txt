@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\bin\Debug\net6.0\ключевое слово ref.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\bin\Debug\net6.0\ключевое слово ref.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\bin\Debug\net6.0\ключевое слово ref.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\bin\Debug\net6.0\ключевое слово ref.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\bin\Debug\net6.0\ключевое слово ref.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\refint\ключевое слово ref.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ключевое слово ref.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово ref\obj\Debug\net6.0\ref\ключевое слово ref.dll

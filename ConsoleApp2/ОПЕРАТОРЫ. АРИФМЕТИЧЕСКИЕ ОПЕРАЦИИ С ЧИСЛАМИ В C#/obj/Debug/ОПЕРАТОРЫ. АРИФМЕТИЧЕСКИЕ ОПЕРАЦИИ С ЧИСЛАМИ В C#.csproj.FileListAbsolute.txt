@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\bin\Debug\ОПЕРАТОРЫ.АРИФМЕТИЧЕСКИЕ_ОПЕРАЦИИ_С_ЧИСЛАМИ_В_C_.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\bin\Debug\ОПЕРАТОРЫ.АРИФМЕТИЧЕСКИЕ_ОПЕРАЦИИ_С_ЧИСЛАМИ_В_C_.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\bin\Debug\ОПЕРАТОРЫ.АРИФМЕТИЧЕСКИЕ_ОПЕРАЦИИ_С_ЧИСЛАМИ_В_C_.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\obj\Debug\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\obj\Debug\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\obj\Debug\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\obj\Debug\ОПЕРАТОРЫ.АРИФМЕТИЧЕСКИЕ_ОПЕРАЦИИ_С_ЧИСЛАМИ_В_C_.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОРЫ. АРИФМЕТИЧЕСКИЕ ОПЕРАЦИИ С ЧИСЛАМИ В C#\obj\Debug\ОПЕРАТОРЫ.АРИФМЕТИЧЕСКИЕ_ОПЕРАЦИИ_С_ЧИСЛАМИ_В_C_.pdb

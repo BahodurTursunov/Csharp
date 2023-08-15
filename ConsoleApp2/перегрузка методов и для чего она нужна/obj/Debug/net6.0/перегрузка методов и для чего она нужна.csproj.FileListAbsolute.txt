@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\bin\Debug\net6.0\перегрузка методов и для чего она нужна.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\bin\Debug\net6.0\перегрузка методов и для чего она нужна.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\bin\Debug\net6.0\перегрузка методов и для чего она нужна.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\bin\Debug\net6.0\перегрузка методов и для чего она нужна.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\bin\Debug\net6.0\перегрузка методов и для чего она нужна.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\refint\перегрузка методов и для чего она нужна.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\перегрузка методов и для чего она нужна.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\obj\Debug\net6.0\ref\перегрузка методов и для чего она нужна.dll

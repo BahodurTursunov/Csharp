@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\bin\Debug\net6.0\ссылочные и значимые типы Стек и Куча.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\bin\Debug\net6.0\ссылочные и значимые типы Стек и Куча.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\bin\Debug\net6.0\ссылочные и значимые типы Стек и Куча.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\bin\Debug\net6.0\ссылочные и значимые типы Стек и Куча.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\bin\Debug\net6.0\ссылочные и значимые типы Стек и Куча.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\refint\ссылочные и значимые типы Стек и Куча.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ссылочные и значимые типы Стек и Куча.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ссылочные и значимые типы Стек и Куча\obj\Debug\net6.0\ref\ссылочные и значимые типы Стек и Куча.dll

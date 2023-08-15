@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\bin\Debug\ternarniyOperator.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\bin\Debug\ternarniyOperator.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\bin\Debug\ternarniyOperator.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\obj\Debug\ternarniyOperator.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\obj\Debug\ternarniyOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\obj\Debug\ternarniyOperator.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\obj\Debug\ternarniyOperator.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ternarniyOperator\obj\Debug\ternarniyOperator.pdb

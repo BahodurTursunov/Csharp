@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\bin\Debug\HW3(Массив).exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\bin\Debug\HW3(Массив).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\bin\Debug\HW3(Массив).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\obj\Debug\HW3(Массив).csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\obj\Debug\HW3(Массив).csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\obj\Debug\HW3(Массив).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\obj\Debug\HW3(Массив).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW3(Массив)\obj\Debug\HW3(Массив).pdb

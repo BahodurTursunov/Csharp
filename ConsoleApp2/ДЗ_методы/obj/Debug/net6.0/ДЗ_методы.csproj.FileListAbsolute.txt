@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\bin\Debug\net6.0\ДЗ_методы.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\bin\Debug\net6.0\ДЗ_методы.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\bin\Debug\net6.0\ДЗ_методы.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\bin\Debug\net6.0\ДЗ_методы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\bin\Debug\net6.0\ДЗ_методы.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\refint\ДЗ_методы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ДЗ_методы.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ДЗ_методы\obj\Debug\net6.0\ref\ДЗ_методы.dll

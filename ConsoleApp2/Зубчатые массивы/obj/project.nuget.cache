@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c7pEbbuNenHLEeP0eYK8vYhBvbPrKy42NQo1GH8rTdObL/7x+Rvv3iNpmx9/BouGAM6kjGRwL8nrZspdOiVbKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\Зубчатые массивы\\Зубчатые массивы.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

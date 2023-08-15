@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "что такое ключевое слово null/1.0.0": {
+        "runtime": {
+          "что такое ключевое слово null.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "что такое ключевое слово null/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

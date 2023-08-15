@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\bin\Debug\net6.0\Трехмерные и более массивы.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\bin\Debug\net6.0\Трехмерные и более массивы.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\bin\Debug\net6.0\Трехмерные и более массивы.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\bin\Debug\net6.0\Трехмерные и более массивы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\bin\Debug\net6.0\Трехмерные и более массивы.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\refint\Трехмерные и более массивы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\Трехмерные и более массивы.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Трехмерные и более массивы\obj\Debug\net6.0\ref\Трехмерные и более массивы.dll

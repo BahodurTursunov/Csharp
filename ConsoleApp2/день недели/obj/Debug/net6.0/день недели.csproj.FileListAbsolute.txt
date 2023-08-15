@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\bin\Debug\net6.0\день недели.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\bin\Debug\net6.0\день недели.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\bin\Debug\net6.0\день недели.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\bin\Debug\net6.0\день недели.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\bin\Debug\net6.0\день недели.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\refint\день недели.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\день недели.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\день недели\obj\Debug\net6.0\ref\день недели.dll

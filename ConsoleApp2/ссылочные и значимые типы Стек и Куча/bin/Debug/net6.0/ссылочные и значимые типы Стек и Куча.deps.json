@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ссылочные и значимые типы Стек и Куча/1.0.0": {
+        "runtime": {
+          "ссылочные и значимые типы Стек и Куча.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ссылочные и значимые типы Стек и Куча/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

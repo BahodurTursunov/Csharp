@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\bin\Debug\triangle4.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\bin\Debug\triangle4.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\bin\Debug\triangle4.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\obj\Debug\triangle4.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\obj\Debug\triangle4.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\obj\Debug\triangle4.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\obj\Debug\triangle4.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle4\obj\Debug\triangle4.pdb

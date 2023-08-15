@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\bin\Debug\@while.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\bin\Debug\@while.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\bin\Debug\@while.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\obj\Debug\while.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\obj\Debug\@while.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\while\obj\Debug\@while.pdb

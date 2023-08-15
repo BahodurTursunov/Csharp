@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\bin\Debug\nested loops(вложенные циклы).exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\bin\Debug\nested loops(вложенные циклы).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\bin\Debug\nested loops(вложенные циклы).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\obj\Debug\nested loops(вложенные циклы).csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\obj\Debug\nested loops(вложенные циклы).csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\obj\Debug\nested loops(вложенные циклы).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\obj\Debug\nested loops(вложенные циклы).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\nested loops(вложенные циклы)\obj\Debug\nested loops(вложенные циклы).pdb

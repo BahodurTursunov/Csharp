@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\obj\Debug\Break.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\obj\Debug\Break.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\obj\Debug\Break.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\bin\Debug\Break.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\bin\Debug\Break.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\bin\Debug\Break.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\obj\Debug\Break.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Break\obj\Debug\Break.pdb

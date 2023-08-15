@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\bin\Debug\net6.0\двумерный массив.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\bin\Debug\net6.0\двумерный массив.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\bin\Debug\net6.0\двумерный массив.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\bin\Debug\net6.0\двумерный массив.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\bin\Debug\net6.0\двумерный массив.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\refint\двумерный массив.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\двумерный массив.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\двумерный массив\obj\Debug\net6.0\ref\двумерный массив.dll

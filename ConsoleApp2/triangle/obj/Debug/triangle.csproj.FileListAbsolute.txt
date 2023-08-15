@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\bin\Debug\triangle.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\bin\Debug\triangle.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\bin\Debug\triangle.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\obj\Debug\triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\obj\Debug\triangle.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\triangle\obj\Debug\triangle.pdb

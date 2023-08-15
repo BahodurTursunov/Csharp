@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\bin\Debug\несколько проектов в одном решении.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\bin\Debug\несколько проектов в одном решении.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\bin\Debug\несколько проектов в одном решении.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\obj\Debug\среднее арифметическое двух чисел.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\obj\Debug\среднее арифметическое двух чисел.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\obj\Debug\среднее арифметическое двух чисел.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\obj\Debug\несколько проектов в одном решении.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\несколько проектов в одном решении\obj\Debug\несколько проектов в одном решении.pdb

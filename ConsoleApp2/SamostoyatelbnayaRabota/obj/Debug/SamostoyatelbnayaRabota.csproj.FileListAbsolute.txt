@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\bin\Debug\SamostoyatelbnayaRabota.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\bin\Debug\SamostoyatelbnayaRabota.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\bin\Debug\SamostoyatelbnayaRabota.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\obj\Debug\SamostoyatelbnayaRabota.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\obj\Debug\SamostoyatelbnayaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\obj\Debug\SamostoyatelbnayaRabota.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\obj\Debug\SamostoyatelbnayaRabota.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\SamostoyatelbnayaRabota\obj\Debug\SamostoyatelbnayaRabota.pdb

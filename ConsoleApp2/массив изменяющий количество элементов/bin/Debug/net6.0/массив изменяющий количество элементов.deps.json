@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "массив изменяющий количество элементов/1.0.0": {
+        "runtime": {
+          "массив изменяющий количество элементов.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "массив изменяющий количество элементов/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

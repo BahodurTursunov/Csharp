@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Трехмерные и более массивы/1.0.0": {
+        "runtime": {
+          "Трехмерные и более массивы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Трехмерные и более массивы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

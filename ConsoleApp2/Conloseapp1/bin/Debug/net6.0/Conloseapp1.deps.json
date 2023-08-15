@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Conloseapp1/1.0.0": {
+        "runtime": {
+          "Conloseapp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conloseapp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

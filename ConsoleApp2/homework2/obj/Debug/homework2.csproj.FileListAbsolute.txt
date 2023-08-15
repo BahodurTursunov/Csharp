@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\bin\Debug\homework2.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\bin\Debug\homework2.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\bin\Debug\homework2.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\obj\Debug\homework2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\obj\Debug\homework2.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\homework2\obj\Debug\homework2.pdb

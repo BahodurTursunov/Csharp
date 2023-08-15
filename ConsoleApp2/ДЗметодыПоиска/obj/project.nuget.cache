@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Px5+Qvu1GVmfwMm5lENQx04fSoo8+BiC/wnq49m3hmdC54a5VaG/E9SKDbTKR9rAIcVjYq4x+gnGIqPp8o1DJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ДЗметодыПоиска\\ДЗметодыПоиска.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

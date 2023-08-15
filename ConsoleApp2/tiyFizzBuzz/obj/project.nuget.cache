@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kpra1/tASqnJtS+sscbR6kIAFOUw3d/av9q0I9ixOokpOby1suaRGQHhxeDEvhQz5NnEKNDyAkASE8hUe0fdqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\tiyFizzBuzz\\tiyFizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

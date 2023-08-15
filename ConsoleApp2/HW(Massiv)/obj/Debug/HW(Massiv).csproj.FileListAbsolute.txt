@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\bin\Debug\HW(Massiv).exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\bin\Debug\HW(Massiv).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\bin\Debug\HW(Massiv).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\obj\Debug\HW(Massiv).csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\obj\Debug\HW(Massiv).csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\obj\Debug\HW(Massiv).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\obj\Debug\HW(Massiv).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\HW(Massiv)\obj\Debug\HW(Massiv).pdb

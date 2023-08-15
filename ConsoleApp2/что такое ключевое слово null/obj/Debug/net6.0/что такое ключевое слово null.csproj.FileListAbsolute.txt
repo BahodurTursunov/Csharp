@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\bin\Debug\net6.0\что такое ключевое слово null.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\bin\Debug\net6.0\что такое ключевое слово null.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\bin\Debug\net6.0\что такое ключевое слово null.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\bin\Debug\net6.0\что такое ключевое слово null.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\bin\Debug\net6.0\что такое ключевое слово null.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\refint\что такое ключевое слово null.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\что такое ключевое слово null.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\что такое ключевое слово null\obj\Debug\net6.0\ref\что такое ключевое слово null.dll

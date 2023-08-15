@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\bin\Debug\calc.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\bin\Debug\calc.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\bin\Debug\calc.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\obj\Debug\calc.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\calc\obj\Debug\calc.pdb

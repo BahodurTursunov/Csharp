@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\bin\Debug\net6.0\Зубчатые массивы.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\bin\Debug\net6.0\Зубчатые массивы.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\bin\Debug\net6.0\Зубчатые массивы.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\bin\Debug\net6.0\Зубчатые массивы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\bin\Debug\net6.0\Зубчатые массивы.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\refint\Зубчатые массивы.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\Зубчатые массивы.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Зубчатые массивы\obj\Debug\net6.0\ref\Зубчатые массивы.dll

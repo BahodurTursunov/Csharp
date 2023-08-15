@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\bin\Debug\net6.0\массив изменяющий количество элементов.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\bin\Debug\net6.0\массив изменяющий количество элементов.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\bin\Debug\net6.0\массив изменяющий количество элементов.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\bin\Debug\net6.0\массив изменяющий количество элементов.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\bin\Debug\net6.0\массив изменяющий количество элементов.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\refint\массив изменяющий количество элементов.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\массив изменяющий количество элементов.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\массив изменяющий количество элементов\obj\Debug\net6.0\ref\массив изменяющий количество элементов.dll

@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\bin\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\bin\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\bin\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\bin\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\bin\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\refint\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL\obj\Debug\net6.0\ref\ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL.dll

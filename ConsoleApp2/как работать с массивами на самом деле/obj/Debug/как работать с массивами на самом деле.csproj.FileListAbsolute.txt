@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\bin\Debug\как работать с массивами на самом деле.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\bin\Debug\как работать с массивами на самом деле.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\bin\Debug\как работать с массивами на самом деле.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\obj\Debug\как работать с массивами на самом деле.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\obj\Debug\как работать с массивами на самом деле.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\obj\Debug\как работать с массивами на самом деле.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\obj\Debug\как работать с массивами на самом деле.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\как работать с массивами на самом деле\obj\Debug\как работать с массивами на самом деле.pdb

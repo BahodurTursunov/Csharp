@@ -1,0 +1,8 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\obj\Debug\конвертацияСтроки.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\obj\Debug\конвертацияСтроки.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\obj\Debug\конвертацияСтроки.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

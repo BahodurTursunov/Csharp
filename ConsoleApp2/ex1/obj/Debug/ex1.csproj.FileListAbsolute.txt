@@ -1,0 +1,3 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ex1\obj\Debug\ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
