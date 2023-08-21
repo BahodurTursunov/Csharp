@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\bin\Debug\net6.0\ключевое слово out разница между ref и out.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\bin\Debug\net6.0\ключевое слово out разница между ref и out.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\bin\Debug\net6.0\ключевое слово out разница между ref и out.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\bin\Debug\net6.0\ключевое слово out разница между ref и out.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\bin\Debug\net6.0\ключевое слово out разница между ref и out.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\refint\ключевое слово out разница между ref и out.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ключевое слово out разница между ref и out.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово out разница между ref и out\obj\Debug\net6.0\ref\ключевое слово out разница между ref и out.dll

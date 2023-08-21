@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\bin\Debug\net6.0\как добавить элемент в массив.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\bin\Debug\net6.0\как добавить элемент в массив.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\bin\Debug\net6.0\как добавить элемент в массив.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\bin\Debug\net6.0\как добавить элемент в массив.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\bin\Debug\net6.0\как добавить элемент в массив.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\refint\как добавить элемент в массив.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\как добавить элемент в массив.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\как добавить элемент в массив\obj\Debug\net6.0\ref\как добавить элемент в массив.dll

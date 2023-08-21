@@ -103,11 +103,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ОПЕРАТОР ПРИСВ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ОПЕРАТОР УСЛОВНОГО NULL", "ОПЕРАТОР УСЛОВНОГО NULL\ОПЕРАТОР УСЛОВНОГО NULL.csproj", "{07C8BE1C-B6D5-4726-9DEC-DE6F8F9C04A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ключевое слово ref", "ключевое слово ref\ключевое слово ref.csproj", "{36EF2EDD-D31A-4485-A248-6F5B7186F2D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ключевое слово ref", "ключевое слово ref\ключевое слово ref.csproj", "{36EF2EDD-D31A-4485-A248-6F5B7186F2D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "массив изменяющий количество элементов", "массив изменяющий количество элементов\массив изменяющий количество элементов.csproj", "{D778FA21-562D-426C-AEA1-3E828C82A84C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "массив изменяющий количество элементов", "массив изменяющий количество элементов\массив изменяющий количество элементов.csproj", "{D778FA21-562D-426C-AEA1-3E828C82A84C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "метод для добавления элемента в начало и конец массива по указанному индексу", "метод для добавления элемента в начало и конец массива по указанному индексу\метод для добавления элемента в начало и конец массива по указанному индексу.csproj", "{57C21901-8A6A-43AA-825A-CAE651F2F16C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "метод для добавления элемента в начало и конец массива по указанному индексу", "метод для добавления элемента в начало и конец массива по указанному индексу\метод для добавления элемента в начало и конец массива по указанному индексу.csproj", "{57C21901-8A6A-43AA-825A-CAE651F2F16C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "как добавить элемент в массив", "как добавить элемент в массив\как добавить элемент в массив.csproj", "{207D7FC7-C001-43BF-8465-95B46DAAF9F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "удалением первого и последнего элемента в массиве", "удалением первого и последнего элемента в массиве\удалением первого и последнего элемента в массиве.csproj", "{868B062D-7A90-42A0-9EE5-0C12DEAFF05C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "123", "123\123.csproj", "{1CCEDAFD-FF91-48F1-A0A7-8D7D3CCA8C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ключевое слово out разница между ref и out", "ключевое слово out разница между ref и out\ключевое слово out разница между ref и out.csproj", "{ED7A178E-1D0B-4A1E-AA88-C410A29B7591}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -311,6 +319,22 @@ Global
 		{57C21901-8A6A-43AA-825A-CAE651F2F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C21901-8A6A-43AA-825A-CAE651F2F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C21901-8A6A-43AA-825A-CAE651F2F16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207D7FC7-C001-43BF-8465-95B46DAAF9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207D7FC7-C001-43BF-8465-95B46DAAF9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207D7FC7-C001-43BF-8465-95B46DAAF9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207D7FC7-C001-43BF-8465-95B46DAAF9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868B062D-7A90-42A0-9EE5-0C12DEAFF05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868B062D-7A90-42A0-9EE5-0C12DEAFF05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868B062D-7A90-42A0-9EE5-0C12DEAFF05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868B062D-7A90-42A0-9EE5-0C12DEAFF05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCEDAFD-FF91-48F1-A0A7-8D7D3CCA8C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCEDAFD-FF91-48F1-A0A7-8D7D3CCA8C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCEDAFD-FF91-48F1-A0A7-8D7D3CCA8C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCEDAFD-FF91-48F1-A0A7-8D7D3CCA8C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7A178E-1D0B-4A1E-AA88-C410A29B7591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7A178E-1D0B-4A1E-AA88-C410A29B7591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7A178E-1D0B-4A1E-AA88-C410A29B7591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7A178E-1D0B-4A1E-AA88-C410A29B7591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -354,8 +378,8 @@ Global
 		{EAB085A5-BFBC-4F93-9D1A-55B6781B3748} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{8E019FC1-6705-4F6C-B41B-6CF621452F62} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{D561EDF9-786C-4AAC-8C85-4B250CFDCC0D} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
-		{81DD7901-5489-4E20-8DA3-8A39BAB0D300} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
-		{0D43BACE-4953-461F-9030-5EC2CEC24009} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
+		{81DD7901-5489-4E20-8DA3-8A39BAB0D300} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{0D43BACE-4953-461F-9030-5EC2CEC24009} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{31A68677-E779-4763-A81F-C68D89072B8B} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{5FC6644A-3FE8-4608-8FEA-79426685DD5B} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{5AFE7305-CC76-4020-85AB-D88E5EC2F8C6} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
@@ -365,6 +389,10 @@ Global
 		{36EF2EDD-D31A-4485-A248-6F5B7186F2D5} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{D778FA21-562D-426C-AEA1-3E828C82A84C} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{57C21901-8A6A-43AA-825A-CAE651F2F16C} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{207D7FC7-C001-43BF-8465-95B46DAAF9F8} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{868B062D-7A90-42A0-9EE5-0C12DEAFF05C} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{1CCEDAFD-FF91-48F1-A0A7-8D7D3CCA8C2D} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{ED7A178E-1D0B-4A1E-AA88-C410A29B7591} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}
