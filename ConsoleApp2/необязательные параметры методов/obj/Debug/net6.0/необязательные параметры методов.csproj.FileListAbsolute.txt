@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\bin\Debug\net6.0\необязательные параметры методов.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\bin\Debug\net6.0\необязательные параметры методов.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\bin\Debug\net6.0\необязательные параметры методов.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\bin\Debug\net6.0\необязательные параметры методов.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\bin\Debug\net6.0\необязательные параметры методов.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\refint\необязательные параметры методов.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\необязательные параметры методов.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\необязательные параметры методов\obj\Debug\net6.0\ref\необязательные параметры методов.dll

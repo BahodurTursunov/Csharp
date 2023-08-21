@@ -119,6 +119,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ключевое слово
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ключевое слово params", "ключевое слово params\ключевое слово params.csproj", "{E1F6AA4F-1432-4EF1-811D-2959A11ED512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "необязательные параметры методов", "необязательные параметры методов\необязательные параметры методов.csproj", "{88788662-A721-4A03-9EED-4425C7AC5355}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -341,6 +343,10 @@ Global
 		{E1F6AA4F-1432-4EF1-811D-2959A11ED512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1F6AA4F-1432-4EF1-811D-2959A11ED512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1F6AA4F-1432-4EF1-811D-2959A11ED512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88788662-A721-4A03-9EED-4425C7AC5355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88788662-A721-4A03-9EED-4425C7AC5355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88788662-A721-4A03-9EED-4425C7AC5355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88788662-A721-4A03-9EED-4425C7AC5355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -400,6 +406,7 @@ Global
 		{1CCEDAFD-FF91-48F1-A0A7-8D7D3CCA8C2D} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{ED7A178E-1D0B-4A1E-AA88-C410A29B7591} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{E1F6AA4F-1432-4EF1-811D-2959A11ED512} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
+		{88788662-A721-4A03-9EED-4425C7AC5355} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}
