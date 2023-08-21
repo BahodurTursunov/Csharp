@@ -14,7 +14,9 @@
         }
         static void Main(string[] args)
         {
+            
             Bar(out int a);
+
         }
     }
 }

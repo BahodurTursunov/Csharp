@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\bin\Debug\net6.0\ключевое слово params.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\bin\Debug\net6.0\ключевое слово params.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\bin\Debug\net6.0\ключевое слово params.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\bin\Debug\net6.0\ключевое слово params.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\bin\Debug\net6.0\ключевое слово params.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\refint\ключевое слово params.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ключевое слово params.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ключевое слово params\obj\Debug\net6.0\ref\ключевое слово params.dll
