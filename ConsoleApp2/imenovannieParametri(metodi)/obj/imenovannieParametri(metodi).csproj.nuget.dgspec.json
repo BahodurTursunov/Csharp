@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\5+б,4щ963.,\\5+б,4щ963.,.csproj": {}
+    "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\imenovannieParametri(metodi)\\imenovannieParametri(metodi).csproj": {}
   },
   "projects": {
-    "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\5+б,4щ963.,\\5+б,4щ963.,.csproj": {
+    "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\imenovannieParametri(metodi)\\imenovannieParametri(metodi).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\5+б,4щ963.,\\5+б,4щ963.,.csproj",
-        "projectName": "5+б,4щ963.,",
-        "projectPath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\5+б,4щ963.,\\5+б,4щ963.,.csproj",
+        "projectUniqueName": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\imenovannieParametri(metodi)\\imenovannieParametri(metodi).csproj",
+        "projectName": "imenovannieParametri(metodi)",
+        "projectPath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\imenovannieParametri(metodi)\\imenovannieParametri(metodi).csproj",
         "packagesPath": "C:\\Users\\tursu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\5+б,4щ963.,\\obj\\",
+        "outputPath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\imenovannieParametri(metodi)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

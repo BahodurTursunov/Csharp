@@ -1,4 +1,4 @@
-﻿namespace _5_б_4щ963._
+﻿namespace imenovannieParametri_metodi_
 {
     internal class Program
     {
