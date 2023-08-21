@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\bin\Debug\net6.0\DoubleChar(Codewars).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\bin\Debug\net6.0\DoubleChar(Codewars).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\bin\Debug\net6.0\DoubleChar(Codewars).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\bin\Debug\net6.0\DoubleChar(Codewars).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\bin\Debug\net6.0\DoubleChar(Codewars).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\refint\DoubleChar(Codewars).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\DoubleChar(Codewars).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\DoubleChar(Codewars)\obj\Debug\net6.0\ref\DoubleChar(Codewars).dll

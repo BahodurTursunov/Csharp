@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\bin\Debug\net6.0\imenovannieParametri(metodi).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\bin\Debug\net6.0\imenovannieParametri(metodi).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\bin\Debug\net6.0\imenovannieParametri(metodi).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\bin\Debug\net6.0\imenovannieParametri(metodi).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\bin\Debug\net6.0\imenovannieParametri(metodi).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\refint\imenovannieParametri(metodi).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\imenovannieParametri(metodi).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\imenovannieParametri(metodi)\obj\Debug\net6.0\ref\imenovannieParametri(metodi).dll

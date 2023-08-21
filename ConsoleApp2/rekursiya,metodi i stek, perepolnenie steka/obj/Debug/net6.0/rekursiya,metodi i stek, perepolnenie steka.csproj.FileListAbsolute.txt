@@ -1,0 +1,15 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\refint\rekursiya,metodi i stek, perepolnenie steka.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\ref\rekursiya,metodi i stek, perepolnenie steka.dll
