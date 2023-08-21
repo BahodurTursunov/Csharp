@@ -49,9 +49,15 @@
         }
         static void Main(string[] args)
         {
+            //// здесь в этом месте мы использовали метод рекурсивно.
             Item item = InitItem();
-            Print(item);
+            //Print(item);
+            //здесь никакая рекурсия не используется а используется только цикл for
+            for (Item i = item; i != null; i = i.Child)
+            {
+                Console.WriteLine(i.Value);
+            }
+            
         }
     }
 }
-// здесь в этом месте мы использовали метод рекурсивно.
