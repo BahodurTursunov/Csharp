@@ -135,6 +135,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nayti summu tchifr chisla",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null - совместимые знанчимые типы(Nullable)", "Null - совместимые знанчимые типы(Nullable)\Null - совместимые знанчимые типы(Nullable).csproj", "{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ключевое слово var", "Ключевое слово var\Ключевое слово var.csproj", "{C7B155EC-1CBD-4FFC-A621-4D97AA83A373}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -389,6 +391,10 @@ Global
 		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B155EC-1CBD-4FFC-A621-4D97AA83A373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B155EC-1CBD-4FFC-A621-4D97AA83A373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B155EC-1CBD-4FFC-A621-4D97AA83A373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B155EC-1CBD-4FFC-A621-4D97AA83A373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -456,6 +462,7 @@ Global
 		{500B2477-B31F-4585-B325-68B7BC8038A2} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{2404888A-3CD1-4E45-9B9E-BA660235AC1A} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
+		{C7B155EC-1CBD-4FFC-A621-4D97AA83A373} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}

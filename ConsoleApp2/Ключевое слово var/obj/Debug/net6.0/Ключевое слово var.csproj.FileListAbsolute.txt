@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\bin\Debug\net6.0\Ключевое слово var.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\bin\Debug\net6.0\Ключевое слово var.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\bin\Debug\net6.0\Ключевое слово var.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\bin\Debug\net6.0\Ключевое слово var.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\bin\Debug\net6.0\Ключевое слово var.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\Ключевое слово var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\Ключевое слово var.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\Ключевое слово var.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\Ключевое слово var.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\Ключевое слово var.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\refint\Ключевое слово var.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\Ключевое слово var.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\Ключевое слово var.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Ключевое слово var\obj\Debug\net6.0\ref\Ключевое слово var.dll
