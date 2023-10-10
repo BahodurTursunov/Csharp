@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XktRGtF18EuXFBk/3XZqnbPorEgta2z4mg4OZqLkK3WgSgOANGxa0DRZM+GHhlixuViIoLDKX5Bi24cs0OhFBg==",
+  "dgSpecHash": "C5/6PfpG47Rw1sh2rFGaRwSlPJtiK4hlHFkoCtBKQJwKUfSTGTrqiAJI3WGIyRxDWFKyrBwvn2J0rh/hXql2cw==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\rekursiya(HOMEWORKS)\\realizovatVizovMassivaSPomoshyuRekursii.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

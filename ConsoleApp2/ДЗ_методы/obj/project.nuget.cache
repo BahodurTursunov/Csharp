@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sH2DQ/WFmdE57wGLorjNe8ROyex56dv+vy9b/ByW67LOw9SFFQJhNiueZCNoJRunx8YCxGzzud08/RmVbroYhw==",
+  "dgSpecHash": "f0SGRb1aSIjLeYhdMlqlvIRKS3LwniRrSuLHcFcW8U/bde5evt0ws0ZuX8DOfummsUEAY6B7XSDJIiYKVm01hw==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ДЗ_методы\\ДЗ_методы.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

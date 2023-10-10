@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aZT+XHvPg7+uq4PLIuxA8qVw0HzeQ1jj/5R+ym/EUulhmHoOcGfaGKKvsEvIi/7LkHDCJRY9UbP+Yn0u053Bjw==",
+  "dgSpecHash": "EAa5ZJ4AvxEVFycdOBYWIrzydGeGoKGgn4yxlQoYlzJLJIIPYS6YNciMcecT73upq+Y4Qxmhiro4JUB9PeuxfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\DoubleChar(Codewars)\\DoubleChar(Codewars).csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

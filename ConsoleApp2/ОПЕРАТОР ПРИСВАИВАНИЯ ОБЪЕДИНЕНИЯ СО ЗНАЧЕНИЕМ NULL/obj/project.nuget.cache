@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eEzlk0ZT+I4uTrghHyE5hNeJ3gsgx0CCzSmi91NuOfdCsbyWC8EcFI06J57z7zZ1a+AjSJTsD1OcpFJOBhmmTQ==",
+  "dgSpecHash": "WQTQ5W6ty/JEBc046616r+T7DheBEtJe+7h0DougWgh2XuLLjzUhZUyTyX7Z2rL5TG36WlyrW3GRfkTTW+aMkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ОПЕРАТОР ПРИСВАИВАНИЯ ОБЪЕДИНЕНИЯ СО ЗНАЧЕНИЕМ NULL\\ОПЕРАТОР ПРИСВАИВАНИЯ ОБЪЕДИНЕНИЯ СО ЗНАЧЕНИЕМ NULL.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

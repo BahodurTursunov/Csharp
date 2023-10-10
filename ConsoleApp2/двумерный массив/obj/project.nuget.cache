@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3p/kT2qmiTXZM14MmCR4i4KqV4c4VoyYY1YZmK8B46PWkeaGYpBsvXYuAfBYbPUGIwuoUw2Msa5oK+TkIrPPg==",
+  "dgSpecHash": "ij8W1sDIr5uwpZvXnG9GRiGUxHx4tlSfcIPUr7ha/2elM1Ijvd89VHn/vthVuWHOS8aXjsd4IMbq0mtwVlzvgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\двумерный массив\\двумерный массив.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

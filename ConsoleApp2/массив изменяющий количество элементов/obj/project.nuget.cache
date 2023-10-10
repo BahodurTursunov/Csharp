@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OFIM2osywwjXQK+Jg0qTHRpAQnaIPQCgja6x+k0OzeJvGXan+r9BimRQikougdhOY1v6aGrIMSSWSYGJB4m2Dg==",
+  "dgSpecHash": "cJQCOYqN7Y6Uj3cGfilhCQAbmbdQbxfpas0TCLcc3YApIcuoyMkTlXHmaTMP4rj7lArVdbNEgtdnD65oD1D6ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\массив изменяющий количество элементов\\массив изменяющий количество элементов.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

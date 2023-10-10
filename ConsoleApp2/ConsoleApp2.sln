@@ -127,7 +127,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleChar(Codewars)", "Dou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rekursiya,metodi i stek, perepolnenie steka", "rekursiya,metodi i stek, perepolnenie steka\rekursiya,metodi i stek, perepolnenie steka.csproj", "{A2BF481E-AFFF-42C8-8DB3-373CAADD7D90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rekursiya(HOMEWORKS)", "rekursiya(HOMEWORKS)\rekursiya(HOMEWORKS).csproj", "{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realizovatVizovMassivaSPomoshyuRekursii", "rekursiya(HOMEWORKS)\realizovatVizovMassivaSPomoshyuRekursii.csproj", "{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "summa elementov massiva rekursiya", "summa elementov massiva rekursiya\summa elementov massiva rekursiya.csproj", "{500B2477-B31F-4585-B325-68B7BC8038A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nayti summu tchifr chisla", "nayti summu tchifr chisla\nayti summu tchifr chisla.csproj", "{2404888A-3CD1-4E45-9B9E-BA660235AC1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -371,6 +375,14 @@ Global
 		{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500B2477-B31F-4585-B325-68B7BC8038A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500B2477-B31F-4585-B325-68B7BC8038A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500B2477-B31F-4585-B325-68B7BC8038A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500B2477-B31F-4585-B325-68B7BC8038A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2404888A-3CD1-4E45-9B9E-BA660235AC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2404888A-3CD1-4E45-9B9E-BA660235AC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2404888A-3CD1-4E45-9B9E-BA660235AC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2404888A-3CD1-4E45-9B9E-BA660235AC1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -435,6 +447,8 @@ Global
 		{FB054C6C-4B94-4E17-9F0D-12A9A091F830} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{A2BF481E-AFFF-42C8-8DB3-373CAADD7D90} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{500B2477-B31F-4585-B325-68B7BC8038A2} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{2404888A-3CD1-4E45-9B9E-BA660235AC1A} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}

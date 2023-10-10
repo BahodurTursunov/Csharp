@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lE5IGC/7F9qn14NtT+BgEgCBpLTLx800p2T1+Eiga2bWAo76+G3aVTWj95DK+YOIoKPzqLmiTZfO+DtaNjd0Qw==",
+  "dgSpecHash": "Ha24sJmu4fD3wHD/rHH7mk9xP8nMxZgOh8cAn5C/LGQNcg6PlSIkQUO7WsecBXaf55dd3vOJGBO5PQZjIE235Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\как добавить элемент в массив\\как добавить элемент в массив.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

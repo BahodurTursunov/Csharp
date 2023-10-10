@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EcXvrP1Aj3E8EDVw92g0xPfS/g8mXvSKSWmoJ9zSvO48iVu9QtZ2om4C9+PaG9mp2pJ20/k2jwzpEKbkC37eFw==",
+  "dgSpecHash": "Y+dwkNh6VmxSBwVnKdFsc1FnXOt8BmmHozFY24vFU4ISYIwKpaN6qkFkFndVcMd4qncWx1xO0i8Y6WzaHMPt/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\перегрузка методов и для чего она нужна\\перегрузка методов и для чего она нужна.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

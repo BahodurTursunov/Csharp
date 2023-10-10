@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZFv5TVgtO2l3gRysKWCsBJoj41Lqm3cMoP0B4NDVctNDPluGoCpZ42hKPd69ZTtbFhMkja3m+Z/w6snLSLTrQ==",
+  "dgSpecHash": "W3hlvPXMWE6FYHgb31y5K4o8GjQxuCSzdjAsIhlcekXvMbSMuVDFBXvP2v0LVn6p1IFLMatVdu4mUu+CS1E+UQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\опрКолСлов\\опрКолСлов.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\tursu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
