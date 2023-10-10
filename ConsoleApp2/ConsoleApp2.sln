@@ -117,21 +117,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "123", "123\123.csproj", "{1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ключевое слово out разница между ref и out", "ключевое слово out разница между ref и out\ключевое слово out разница между ref и out.csproj", "{ED7A178E-1D0B-4A1E-AA88-C410A29B7591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ключевое слово params", "ключевое слово params\ключевое слово params.csproj", "{E1F6AA4F-1432-4EF1-811D-2959A11ED512}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ключевое слово params", "ключевое слово params\ключевое слово params.csproj", "{E1F6AA4F-1432-4EF1-811D-2959A11ED512}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "необязательные параметры методов", "необязательные параметры методов\необязательные параметры методов.csproj", "{88788662-A721-4A03-9EED-4425C7AC5355}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "необязательные параметры методов", "необязательные параметры методов\необязательные параметры методов.csproj", "{88788662-A721-4A03-9EED-4425C7AC5355}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imenovannieParametri(metodi)", "imenovannieParametri(metodi)\imenovannieParametri(metodi).csproj", "{4EDEBB8F-0A08-4A37-A0CE-F323F28155BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imenovannieParametri(metodi)", "imenovannieParametri(metodi)\imenovannieParametri(metodi).csproj", "{4EDEBB8F-0A08-4A37-A0CE-F323F28155BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleChar(Codewars)", "DoubleChar(Codewars)\DoubleChar(Codewars).csproj", "{FB054C6C-4B94-4E17-9F0D-12A9A091F830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoubleChar(Codewars)", "DoubleChar(Codewars)\DoubleChar(Codewars).csproj", "{FB054C6C-4B94-4E17-9F0D-12A9A091F830}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rekursiya,metodi i stek, perepolnenie steka", "rekursiya,metodi i stek, perepolnenie steka\rekursiya,metodi i stek, perepolnenie steka.csproj", "{A2BF481E-AFFF-42C8-8DB3-373CAADD7D90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rekursiya,metodi i stek, perepolnenie steka", "rekursiya,metodi i stek, perepolnenie steka\rekursiya,metodi i stek, perepolnenie steka.csproj", "{A2BF481E-AFFF-42C8-8DB3-373CAADD7D90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "realizovatVizovMassivaSPomoshyuRekursii", "rekursiya(HOMEWORKS)\realizovatVizovMassivaSPomoshyuRekursii.csproj", "{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "realizovatVizovMassivaSPomoshyuRekursii", "rekursiya(HOMEWORKS)\realizovatVizovMassivaSPomoshyuRekursii.csproj", "{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "summa elementov massiva rekursiya", "summa elementov massiva rekursiya\summa elementov massiva rekursiya.csproj", "{500B2477-B31F-4585-B325-68B7BC8038A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "summa elementov massiva rekursiya", "summa elementov massiva rekursiya\summa elementov massiva rekursiya.csproj", "{500B2477-B31F-4585-B325-68B7BC8038A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nayti summu tchifr chisla", "nayti summu tchifr chisla\nayti summu tchifr chisla.csproj", "{2404888A-3CD1-4E45-9B9E-BA660235AC1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nayti summu tchifr chisla", "nayti summu tchifr chisla\nayti summu tchifr chisla.csproj", "{2404888A-3CD1-4E45-9B9E-BA660235AC1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null - совместимые знанчимые типы(Nullable)", "Null - совместимые знанчимые типы(Nullable)\Null - совместимые знанчимые типы(Nullable).csproj", "{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -383,6 +385,10 @@ Global
 		{2404888A-3CD1-4E45-9B9E-BA660235AC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2404888A-3CD1-4E45-9B9E-BA660235AC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2404888A-3CD1-4E45-9B9E-BA660235AC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -449,6 +455,7 @@ Global
 		{0A71F1ED-F05E-4EEB-8E93-7AC7A161253C} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{500B2477-B31F-4585-B325-68B7BC8038A2} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{2404888A-3CD1-4E45-9B9E-BA660235AC1A} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}

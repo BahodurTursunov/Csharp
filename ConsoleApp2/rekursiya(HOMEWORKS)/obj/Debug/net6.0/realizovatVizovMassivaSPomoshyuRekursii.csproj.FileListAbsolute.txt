@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\bin\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\bin\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\bin\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\bin\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\bin\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\refint\realizovatVizovMassivaSPomoshyuRekursii.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\realizovatVizovMassivaSPomoshyuRekursii.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya(HOMEWORKS)\obj\Debug\net6.0\ref\realizovatVizovMassivaSPomoshyuRekursii.dll

@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\bin\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\bin\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\bin\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\bin\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\bin\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\refint\Null - совместимые знанчимые типы(Nullable).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\Null - совместимые знанчимые типы(Nullable).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Null - совместимые знанчимые типы(Nullable)\obj\Debug\net6.0\ref\Null - совместимые знанчимые типы(Nullable).dll
