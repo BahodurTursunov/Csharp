@@ -1,0 +1,21 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\enum-что это и для чего это нужно.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\enum-что это и для чего это нужно.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\enum-что это и для чего это нужно.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\enum-что это и для чего это нужно.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\enum-что это и для чего это нужно.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\refint\enum-что это и для чего это нужно.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\ref\enum-что это и для чего это нужно.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Debug\net6.0\enum-что это и для чего это нужно.csproj.CopyComplete

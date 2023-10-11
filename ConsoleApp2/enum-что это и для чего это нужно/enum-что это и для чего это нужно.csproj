@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>enum_что_это_и_для_чего_это_нужно</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\rekursiya,metodi i stek, perepolnenie steka\rekursiya,metodi i stek, perepolnenie steka.csproj" />
+  </ItemGroup>
+
+</Project>

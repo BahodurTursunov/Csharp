@@ -3,7 +3,6 @@ C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie st
 C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.runtimeconfig.json
 C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.dll
 C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\bin\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.pdb
-C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.csproj.AssemblyReference.cache
 C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.AssemblyInfoInputs.cache
 C:\Users\tursu\Source\Repos\ConsoleApp2\rekursiya,metodi i stek, perepolnenie steka\obj\Debug\net6.0\rekursiya,metodi i stek, perepolnenie steka.AssemblyInfo.cs
