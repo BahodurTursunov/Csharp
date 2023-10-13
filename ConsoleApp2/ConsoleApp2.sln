@@ -133,11 +133,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "summa elementov massiva rek
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nayti summu tchifr chisla", "nayti summu tchifr chisla\nayti summu tchifr chisla.csproj", "{2404888A-3CD1-4E45-9B9E-BA660235AC1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null - совместимые знанчимые типы(Nullable)", "Null - совместимые знанчимые типы(Nullable)\Null - совместимые знанчимые типы(Nullable).csproj", "{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Null - совместимые знанчимые типы(Nullable)", "Null - совместимые знанчимые типы(Nullable)\Null - совместимые знанчимые типы(Nullable).csproj", "{3BC8AA6D-DC50-45EF-A037-035994FEA0C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ключевое слово var", "Ключевое слово var\Ключевое слово var.csproj", "{C7B155EC-1CBD-4FFC-A621-4D97AA83A373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ключевое слово var", "Ключевое слово var\Ключевое слово var.csproj", "{C7B155EC-1CBD-4FFC-A621-4D97AA83A373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum-что это и для чего это нужно", "enum-что это и для чего это нужно\enum-что это и для чего это нужно.csproj", "{5E1C3D72-C38D-4E88-B29C-2ABC2200059E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enum-что это и для чего это нужно", "enum-что это и для чего это нужно\enum-что это и для чего это нужно.csproj", "{5E1C3D72-C38D-4E88-B29C-2ABC2200059E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "представление отрицательных чисел", "представление отрицательных чисел\представление отрицательных чисел.csproj", "{AB3800FA-BAF2-403D-A62D-336A076F26C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ООП. Класс. Объект класса", "ООП. Класс. Объект класса", "{88C7637B-3BC7-46BC-8F8E-59C64FF41485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ООП. Класс. Объект класса", "ООП. Класс. Объект класса\ООП. Класс. Объект класса.csproj", "{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "сортировка", "сортировка\сортировка.csproj", "{A574247F-172F-4B4F-8C1E-66069AA4897B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{6431F126-C920-4ED2-A7EF-F968DEF0309D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -401,6 +411,22 @@ Global
 		{5E1C3D72-C38D-4E88-B29C-2ABC2200059E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E1C3D72-C38D-4E88-B29C-2ABC2200059E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E1C3D72-C38D-4E88-B29C-2ABC2200059E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3800FA-BAF2-403D-A62D-336A076F26C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3800FA-BAF2-403D-A62D-336A076F26C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3800FA-BAF2-403D-A62D-336A076F26C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3800FA-BAF2-403D-A62D-336A076F26C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A574247F-172F-4B4F-8C1E-66069AA4897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A574247F-172F-4B4F-8C1E-66069AA4897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A574247F-172F-4B4F-8C1E-66069AA4897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A574247F-172F-4B4F-8C1E-66069AA4897B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6431F126-C920-4ED2-A7EF-F968DEF0309D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6431F126-C920-4ED2-A7EF-F968DEF0309D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6431F126-C920-4ED2-A7EF-F968DEF0309D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6431F126-C920-4ED2-A7EF-F968DEF0309D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -470,6 +496,9 @@ Global
 		{3BC8AA6D-DC50-45EF-A037-035994FEA0C8} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{C7B155EC-1CBD-4FFC-A621-4D97AA83A373} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
 		{5E1C3D72-C38D-4E88-B29C-2ABC2200059E} = {CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}
+		{AB3800FA-BAF2-403D-A62D-336A076F26C0} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
+		{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0} = {88C7637B-3BC7-46BC-8F8E-59C64FF41485}
+		{6431F126-C920-4ED2-A7EF-F968DEF0309D} = {88C7637B-3BC7-46BC-8F8E-59C64FF41485}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}

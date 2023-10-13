@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\bin\Debug\net6.0\Students.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\bin\Debug\net6.0\Students.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\bin\Debug\net6.0\Students.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\bin\Debug\net6.0\Students.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\bin\Debug\net6.0\Students.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\Students.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\Students.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\Students.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\refint\Students.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\Students.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\Students.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Students\obj\Debug\net6.0\ref\Students.dll

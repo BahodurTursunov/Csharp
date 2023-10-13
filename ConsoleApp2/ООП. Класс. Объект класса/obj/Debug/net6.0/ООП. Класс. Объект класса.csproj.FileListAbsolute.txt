@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\ООП. Класс. Объект класса.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\ООП. Класс. Объект класса.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\ООП. Класс. Объект класса.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\ООП. Класс. Объект класса.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\ООП. Класс. Объект класса.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\refint\ООП. Класс. Объект класса.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ref\ООП. Класс. Объект класса.dll

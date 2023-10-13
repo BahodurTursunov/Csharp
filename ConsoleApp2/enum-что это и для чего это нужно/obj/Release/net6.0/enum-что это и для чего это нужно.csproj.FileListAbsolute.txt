@@ -1,0 +1,5 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Release\net6.0\enum-что это и для чего это нужно.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Release\net6.0\enum-что это и для чего это нужно.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Release\net6.0\enum-что это и для чего это нужно.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Release\net6.0\enum-что это и для чего это нужно.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\obj\Release\net6.0\enum-что это и для чего это нужно.csproj.CoreCompileInputs.cache

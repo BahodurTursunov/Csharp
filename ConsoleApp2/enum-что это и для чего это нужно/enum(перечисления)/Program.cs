@@ -1,6 +1,7 @@
-﻿namespace enum_что_это_и_для_чего_это_нужно
+﻿
+namespace enum_что_это_и_для_чего_это_нужно
 {
-    internal class Program
+    internal class Program 
     {
         // enum (перечисления) 
         static void Main(string[] args)

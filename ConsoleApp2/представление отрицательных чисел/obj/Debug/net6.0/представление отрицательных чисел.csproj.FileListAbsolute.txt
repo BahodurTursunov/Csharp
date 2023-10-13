@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\bin\Debug\net6.0\представление отрицательных чисел.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\bin\Debug\net6.0\представление отрицательных чисел.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\bin\Debug\net6.0\представление отрицательных чисел.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\bin\Debug\net6.0\представление отрицательных чисел.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\bin\Debug\net6.0\представление отрицательных чисел.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\представление отрицательных чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\представление отрицательных чисел.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\представление отрицательных чисел.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\представление отрицательных чисел.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\представление отрицательных чисел.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\refint\представление отрицательных чисел.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\представление отрицательных чисел.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\представление отрицательных чисел.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\представление отрицательных чисел\obj\Debug\net6.0\ref\представление отрицательных чисел.dll
