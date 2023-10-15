@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ООП. Класс. Объект класса/1.0.0": {
+        "dependencies": {
+          "Students": "1.0.0"
+        },
         "runtime": {
           "ООП. Класс. Объект класса.dll": {}
+        }
+      },
+      "Students/1.0.0": {
+        "runtime": {
+          "Students.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ООП. Класс. Объект класса/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Students/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

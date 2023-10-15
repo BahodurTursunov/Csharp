@@ -12,3 +12,10 @@ C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект кла�
 C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.pdb
 C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.genruntimeconfig.cache
 C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ref\ООП. Класс. Объект класса.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\Students.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\Students.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\Students.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\Students.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\bin\Debug\net6.0\Students.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.csproj.AssemblyReference.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\ООП. Класс. Объект класса\obj\Debug\net6.0\ООП. Класс. Объект класса.csproj.CopyComplete

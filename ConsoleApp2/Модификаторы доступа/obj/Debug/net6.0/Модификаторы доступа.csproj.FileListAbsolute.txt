@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\bin\Debug\net6.0\Модификаторы доступа.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\bin\Debug\net6.0\Модификаторы доступа.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\bin\Debug\net6.0\Модификаторы доступа.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\bin\Debug\net6.0\Модификаторы доступа.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\bin\Debug\net6.0\Модификаторы доступа.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\Модификаторы доступа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\Модификаторы доступа.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\Модификаторы доступа.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\Модификаторы доступа.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\Модификаторы доступа.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\refint\Модификаторы доступа.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\Модификаторы доступа.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\Модификаторы доступа.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Модификаторы доступа\obj\Debug\net6.0\ref\Модификаторы доступа.dll

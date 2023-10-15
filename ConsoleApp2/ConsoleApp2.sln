@@ -139,15 +139,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ключевое слово
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enum-что это и для чего это нужно", "enum-что это и для чего это нужно\enum-что это и для чего это нужно.csproj", "{5E1C3D72-C38D-4E88-B29C-2ABC2200059E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "представление отрицательных чисел", "представление отрицательных чисел\представление отрицательных чисел.csproj", "{AB3800FA-BAF2-403D-A62D-336A076F26C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "представление отрицательных чисел", "представление отрицательных чисел\представление отрицательных чисел.csproj", "{AB3800FA-BAF2-403D-A62D-336A076F26C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ООП. Класс. Объект класса", "ООП. Класс. Объект класса", "{88C7637B-3BC7-46BC-8F8E-59C64FF41485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ООП. Класс. Объект класса", "ООП. Класс. Объект класса\ООП. Класс. Объект класса.csproj", "{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ООП. Класс. Объект класса", "ООП. Класс. Объект класса\ООП. Класс. Объект класса.csproj", "{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "сортировка", "сортировка\сортировка.csproj", "{A574247F-172F-4B4F-8C1E-66069AA4897B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "сортировка", "сортировка\сортировка.csproj", "{A574247F-172F-4B4F-8C1E-66069AA4897B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{6431F126-C920-4ED2-A7EF-F968DEF0309D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Students.csproj", "{6431F126-C920-4ED2-A7EF-F968DEF0309D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ООП", "ООП", "{885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Модификаторы доступа", "Модификаторы доступа\Модификаторы доступа.csproj", "{41C899D6-ED86-4ECB-B0AC-20412D0F0A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Локальные функции", "Локальные функции\Локальные функции.csproj", "{42FE7540-7F57-49EC-9D54-A3D9F4C94455}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -427,6 +433,14 @@ Global
 		{6431F126-C920-4ED2-A7EF-F968DEF0309D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6431F126-C920-4ED2-A7EF-F968DEF0309D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6431F126-C920-4ED2-A7EF-F968DEF0309D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C899D6-ED86-4ECB-B0AC-20412D0F0A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C899D6-ED86-4ECB-B0AC-20412D0F0A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C899D6-ED86-4ECB-B0AC-20412D0F0A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C899D6-ED86-4ECB-B0AC-20412D0F0A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FE7540-7F57-49EC-9D54-A3D9F4C94455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FE7540-7F57-49EC-9D54-A3D9F4C94455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FE7540-7F57-49EC-9D54-A3D9F4C94455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FE7540-7F57-49EC-9D54-A3D9F4C94455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -499,6 +513,8 @@ Global
 		{AB3800FA-BAF2-403D-A62D-336A076F26C0} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 		{D89CB5E8-0DA2-44C4-B2E4-A909E792F4E0} = {88C7637B-3BC7-46BC-8F8E-59C64FF41485}
 		{6431F126-C920-4ED2-A7EF-F968DEF0309D} = {88C7637B-3BC7-46BC-8F8E-59C64FF41485}
+		{41C899D6-ED86-4ECB-B0AC-20412D0F0A91} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
+		{42FE7540-7F57-49EC-9D54-A3D9F4C94455} = {085C7ED2-E40E-418C-827F-3E7FE70F5783}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}

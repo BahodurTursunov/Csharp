@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\bin\Debug\net6.0\Локальные функции.exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\bin\Debug\net6.0\Локальные функции.deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\bin\Debug\net6.0\Локальные функции.runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\bin\Debug\net6.0\Локальные функции.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\bin\Debug\net6.0\Локальные функции.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\Локальные функции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\Локальные функции.AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\Локальные функции.AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\Локальные функции.csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\Локальные функции.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\refint\Локальные функции.dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\Локальные функции.pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\Локальные функции.genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\Локальные функции\obj\Debug\net6.0\ref\Локальные функции.dll
