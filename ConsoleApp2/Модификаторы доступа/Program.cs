@@ -22,33 +22,16 @@ namespace Модификаторы_доступа
             //sum(1, 2, 3);
             //sum(20);
 
-            //static void display(int[] numbers)
-            //{
-            //    int res = 0;
-            //    for (int i = 0; i < numbers.Length; i++)
-            //    {
-            //        res+= numbers[i];
-            //    }
-            //    Console.WriteLine(res);
-            //}
-            //display(new int[] {1,2,3,4});
-
-
-            
-            Display(1, 3, 4, 2);
-            Console.ReadKey();
-            
-
-            static void Display(params int[] numbers, int r)
+            static void display(int[] numbers)
             {
-                int result = 0;
+                int res = 0;
                 for (int i = 0; i < numbers.Length; i++)
                 {
-                    result += numbers[i];
+                    res+= numbers[i];
                 }
-                result *= r;
-                Console.WriteLine(result);
+                Console.WriteLine(res);
             }
+            display(new int[] {});
         }
     }
 }

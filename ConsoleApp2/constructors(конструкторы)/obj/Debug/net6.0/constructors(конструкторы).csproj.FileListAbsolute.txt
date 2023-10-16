@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\bin\Debug\net6.0\constructors(конструкторы).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\bin\Debug\net6.0\constructors(конструкторы).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\bin\Debug\net6.0\constructors(конструкторы).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\bin\Debug\net6.0\constructors(конструкторы).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\bin\Debug\net6.0\constructors(конструкторы).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\constructors(конструкторы).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\constructors(конструкторы).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\constructors(конструкторы).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\constructors(конструкторы).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\constructors(конструкторы).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\refint\constructors(конструкторы).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\constructors(конструкторы).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\constructors(конструкторы).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\constructors(конструкторы)\obj\Debug\net6.0\ref\constructors(конструкторы).dll
