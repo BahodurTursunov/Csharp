@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\bin\Debug\net6.0\keywordThis(ключевое слово this).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\bin\Debug\net6.0\keywordThis(ключевое слово this).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\bin\Debug\net6.0\keywordThis(ключевое слово this).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\bin\Debug\net6.0\keywordThis(ключевое слово this).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\bin\Debug\net6.0\keywordThis(ключевое слово this).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\keywordThis(ключевое слово this).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\keywordThis(ключевое слово this).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\keywordThis(ключевое слово this).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\keywordThis(ключевое слово this).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\keywordThis(ключевое слово this).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\refint\keywordThis(ключевое слово this).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\keywordThis(ключевое слово this).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\keywordThis(ключевое слово this).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\obj\Debug\net6.0\ref\keywordThis(ключевое слово this).dll
