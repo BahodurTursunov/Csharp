@@ -7,7 +7,7 @@ namespace Модификаторы_доступа
     // модификаторы доступа public private, для членов класса
     class Point
     {
-        private int z = 10;
+        int z = 10;
         public int x = 10;
         private int y = 44;
 

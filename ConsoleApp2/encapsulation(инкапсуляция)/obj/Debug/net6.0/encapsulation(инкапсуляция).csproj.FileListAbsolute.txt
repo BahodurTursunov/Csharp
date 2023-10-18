@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\bin\Debug\net6.0\encapsulation(инкапсуляция).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\bin\Debug\net6.0\encapsulation(инкапсуляция).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\bin\Debug\net6.0\encapsulation(инкапсуляция).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\bin\Debug\net6.0\encapsulation(инкапсуляция).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\bin\Debug\net6.0\encapsulation(инкапсуляция).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\encapsulation(инкапсуляция).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\encapsulation(инкапсуляция).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\encapsulation(инкапсуляция).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\encapsulation(инкапсуляция).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\encapsulation(инкапсуляция).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\refint\encapsulation(инкапсуляция).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\encapsulation(инкапсуляция).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\encapsulation(инкапсуляция).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\encapsulation(инкапсуляция)\obj\Debug\net6.0\ref\encapsulation(инкапсуляция).dll
