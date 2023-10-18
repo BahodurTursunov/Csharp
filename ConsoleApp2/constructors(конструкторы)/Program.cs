@@ -46,6 +46,10 @@ internal class Program
     {
         Person tom = new Person();
         tom.Print();
+            for (int i = 2; i < ; i++)
+            {
+
+            }
     }
 }
 }

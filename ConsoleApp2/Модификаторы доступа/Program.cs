@@ -1,37 +1,51 @@
-﻿using System.Xml.Serialization;
-
+﻿using System.Globalization;
+using System.Security.Cryptography.X509Certificates;
+using System.Xml.Serialization;
+using System.Reflection;
 namespace Модификаторы_доступа
 {
     // модификаторы доступа public private, для членов класса
+    class Point
+    {
+        private int z = 10;
+        public int x = 10;
+        private int y = 44;
+
+        private void PrintX()
+        {
+            Console.WriteLine($"X: {x}");
+        }
+
+        public void PrintY()
+        {
+            Console.WriteLine($"Y: {y}");
+        }
+
+        public void PrintPoint()
+        {
+            PrintX();
+            PrintY();
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            //void sum(int intial, params int[] numbers)
-            //{
-            //    int result = intial;
-            //    foreach (var item in numbers)
-            //    {
-            //        result += item;
-            //    }
-            //    Console.WriteLine(result);
-            //}
-            //int[] nums = {1,2,3,4,5,6,7};
-            //sum(10,nums);
-            //sum(1, 2, 3, 4);
-            //sum(1, 2, 3);
-            //sum(20);
+            Point p = new Point();
+            p.PrintY();
+            p.PrintPoint();
 
-            static void display(int[] numbers)
+            var typeInfo = typeof(Point).
+                GetFields(BindingFlags.Instance |
+                BindingFlags.NonPublic |
+                BindingFlags.Public);
+
+            foreach (var item in typeInfo)
             {
-                int res = 0;
-                for (int i = 0; i < numbers.Length; i++)
-                {
-                    res+= numbers[i];
-                }
-                Console.WriteLine(res);
+                Console.WriteLine($"{item.Name}\t IsPrivate: {item.IsPrivate}\t" +
+                    $"IsPublic: {item.IsPublic}");
             }
-            display(new int[] {});
         }
     }
 }
