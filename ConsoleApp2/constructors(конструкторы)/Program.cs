@@ -1,55 +1,39 @@
-﻿using System.Reflection.Metadata;
-
-namespace constructors_конструкторы_
+﻿namespace constructors_конструкторы_
 {
-    /* Мы сами можем определиеть свои конструкторы. Как правило, конструктор выполняет инициализацию объекта. При этом если в классе
-     * определяются свои конструкторы, то он лишается конструктора по умолчанию.
-     * На уровне кода конструктор представляет метод, который называется по имени класса, который может иметь параметры, но для него не надо
-     * определять возвращаемый тип. Например, определим в классе Person пройтейший конструктор:
-     */
+    class Gun
+    {
 
-/* Итак здесь определен конструктор, который выводит на консоль некоторое сообщение и инициализирует поля класса
- *  public Person() 
-    {
-        Console.WriteLine("Создание объекта Person");
-        name = "Tom";
-        age = 21;
-    }*/
+        public Gun(bool isLoaded)
+        {
+            isLoaded = _isLoaded;
+        }
+        private bool _isLoaded;
 
-    /* Конструкторы могут иметь модификаторы, которые указываются перед именем конструктора. Так, в данном случае, чтобы конcтруктор 
-     * был доступен вне класса Person, он определен с модификатором Public.
-     * Определив конструктор мы может вызвать его для создания объекта Person.
-     * Person tom = new Person();
-     * */
+        private void Reload()
+        {
+            Console.WriteLine("Заряжаю...");
+            _isLoaded = true;
+            Console.WriteLine("Заражено!");
+        }
 
-    /* В данном случае выражение Person() как раз представляет вызов определенного в классе конструктора (это больше не автоматический конструктор
-     * по умолчанию, которого у класса теперпь нет). Соответственно при его выполнении на консоли будет выводиться строка "Создание объекта Person"
-     * Подобным образом мы можем определять и другие конструкторы в классе*/
-class Person
-{
-    public string name;
-    public int age;
-    public Person() 
-    {
-        Console.WriteLine("Создание объекта Person");
-        name = "Tom";
-        age = 21;
-    }
-    public void Print ()
-    {
-        Console.WriteLine($"Имя: {name} Возраст: {age}");
-    }
-}
-internal class Program
-{
-    static void Main(string[] args)
-    {
-        Person tom = new Person();
-        tom.Print();
-            for (int i = 2; i < ; i++)
+        public void Shoot()
+        {
+            if (!_isLoaded)
             {
-
+                Console.WriteLine("Оружие не заряжено!");
+                Reload();
             }
+            Console.WriteLine("Бам бам\n");
+            _isLoaded = false;
+        }
     }
-}
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Gun gun = new Gun(false);
+            gun.Shoot();
+        }
+    }
 }
