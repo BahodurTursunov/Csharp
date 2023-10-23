@@ -10,7 +10,6 @@
         static void Main(string[] args)
         {
             int[] myArray = GetArray();
-
             Console.WriteLine("Сумма элемента массива " + myArray?.Sum());
         }
     } 
