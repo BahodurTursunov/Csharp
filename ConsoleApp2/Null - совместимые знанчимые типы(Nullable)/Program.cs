@@ -12,7 +12,6 @@
             //Console.WriteLine(i.GetValueOrDefault(3));
             //Console.WriteLine(i ?? 55);
             //Console.WriteLine(i.Value);
-
             int? a = 5;
             int? b = 22;
             int? result = a + b;
