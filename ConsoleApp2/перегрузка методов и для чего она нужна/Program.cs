@@ -36,12 +36,10 @@
         {
             return a + b + c;
         }
-
         static void Main(string[] args)
         {
             double result = Sum(2.1, 3.1, 4.9);
             Console.WriteLine(result);
         }
-
     }
 }
