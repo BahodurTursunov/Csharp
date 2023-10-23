@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "overloading class constructors(перегрузка конструкторов класса) задача/1.0.0": {
+        "runtime": {
+          "overloading class constructors(перегрузка конструкторов класса) задача.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "overloading class constructors(перегрузка конструкторов класса) задача/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
