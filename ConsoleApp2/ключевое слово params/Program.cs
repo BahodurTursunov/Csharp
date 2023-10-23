@@ -18,7 +18,6 @@
     //        Console.WriteLine(result);
     //    }
     //}
-
     internal class Programm2
     {
         static void Foo(params object[] parametrs)
