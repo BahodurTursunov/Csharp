@@ -6,7 +6,6 @@
         {
             Console.WriteLine(value);
         }
-
         static void Bar(out int value)
         {
             value = 5;
@@ -14,9 +13,7 @@
         }
         static void Main(string[] args)
         {
-            
-            Bar(out int a);
-
+            Bar(out int a)
         }
     }
 }
