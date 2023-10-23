@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ConsoleApp4\\ConsoleApp4.csproj",
-      "projectName": "ConsoleApp4",
-      "projectPath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ConsoleApp4\\ConsoleApp4.csproj",
+      "projectUniqueName": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ConsoleApp4\\indexes and ranges(индексы и диапазоны).csproj",
+      "projectName": "indexes and ranges(индексы и диапазоны)",
+      "projectPath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ConsoleApp4\\indexes and ranges(индексы и диапазоны).csproj",
       "packagesPath": "C:\\Users\\tursu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ConsoleApp4\\obj\\",
       "projectStyle": "PackageReference",

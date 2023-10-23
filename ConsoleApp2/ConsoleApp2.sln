@@ -67,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "индексы и диап�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleCode(Core)", "SimpleCode(Core)", "{CDDE3D7F-12CE-44C9-A3FC-6ED60B54D747}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{4C721719-CC77-4989-812F-B37307FC1B96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "indexes and ranges(индексы и диапазоны)", "ConsoleApp4\indexes and ranges(индексы и диапазоны).csproj", "{4C721719-CC77-4989-812F-B37307FC1B96}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tiyFizzBuzz", "tiyFizzBuzz\tiyFizzBuzz.csproj", "{C9B0E065-E9D7-4734-8EBB-C36D9EAFAED4}"
 EndProject
@@ -164,6 +164,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "overloading class constructors(перегрузка конструкторов класса)", "overloading class constructors(перегрузка конструкторов класса)\overloading class constructors(перегрузка конструкторов класса).csproj", "{473BF8CE-59D2-45DB-9B18-4022CEBCD45C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloading class constructors(перегрузка конструкторов класса) задача", "overloading class constructors(перегрузка конструкторов класса) задача\overloading class constructors(перегрузка конструкторов класса) задача.csproj", "{E50A56F3-71EB-411F-A255-AB1999F0F2E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "this(ключевое слово this и что это такое)", "this(ключевое слово this и что это такое)\this(ключевое слово this и что это такое).csproj", "{E31A4D6B-D81B-410C-8AEA-920E80EB3832}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,6 +473,10 @@ Global
 		{E50A56F3-71EB-411F-A255-AB1999F0F2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E50A56F3-71EB-411F-A255-AB1999F0F2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E50A56F3-71EB-411F-A255-AB1999F0F2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31A4D6B-D81B-410C-8AEA-920E80EB3832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31A4D6B-D81B-410C-8AEA-920E80EB3832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31A4D6B-D81B-410C-8AEA-920E80EB3832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31A4D6B-D81B-410C-8AEA-920E80EB3832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -550,6 +556,7 @@ Global
 		{5E5A7FEE-8242-4B00-8F3C-132EB93C32BE} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{473BF8CE-59D2-45DB-9B18-4022CEBCD45C} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{E50A56F3-71EB-411F-A255-AB1999F0F2E6} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
+		{E31A4D6B-D81B-410C-8AEA-920E80EB3832} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}
