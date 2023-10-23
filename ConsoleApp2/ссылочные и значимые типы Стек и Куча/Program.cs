@@ -11,7 +11,6 @@ namespace ссылочные_и_значимые_типы_Стек_и_Куча
         {
             value = 5;
         }
-
         static void Bar(int[] arr)
         {
             arr[0] = 5;
