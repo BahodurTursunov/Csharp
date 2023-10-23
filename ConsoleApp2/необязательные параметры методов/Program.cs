@@ -5,6 +5,7 @@
         static int Sum(int a, int b, bool enableLogging = false)
         {
             int result = a + b;
+
             if (enableLogging)
             {
                 Console.WriteLine(a);
