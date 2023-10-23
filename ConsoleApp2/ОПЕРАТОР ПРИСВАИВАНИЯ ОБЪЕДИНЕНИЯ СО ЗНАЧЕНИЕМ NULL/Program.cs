@@ -10,9 +10,7 @@
         static void Main(string[] args)
         {
             int[] myArray = GetArray();
-
             myArray ??= new int[1];
-
             Console.WriteLine("количество элементов в массиве " + myArray.Length);
         }
     }
