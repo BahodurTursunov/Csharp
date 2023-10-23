@@ -1,6 +1,5 @@
 ﻿namespace ключевое_слово_ref
 {
-
     // ключевое слово ref
     // передача аргументов по ссылке
     internal class Program
@@ -13,7 +12,6 @@
             b = -5;
 
         }
-
         static void Foo(ref int a)
         {
             
