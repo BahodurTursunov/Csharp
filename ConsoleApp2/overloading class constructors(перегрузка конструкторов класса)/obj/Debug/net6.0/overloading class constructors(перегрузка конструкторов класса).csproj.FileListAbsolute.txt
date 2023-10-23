@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\bin\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\bin\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\bin\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\bin\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\bin\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\refint\overloading class constructors(перегрузка конструкторов класса).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\overloading class constructors(перегрузка конструкторов класса).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\overloading class constructors(перегрузка конструкторов класса)\obj\Debug\net6.0\ref\overloading class constructors(перегрузка конструкторов класса).dll
