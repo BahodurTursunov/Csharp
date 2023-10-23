@@ -32,8 +32,8 @@
     {
         static void Main(string[] args)
         {
-            Gun gun = new Gun(false);
+            Gun gun = new Gun(isLoaded: false);
             gun.Shoot();
-        }
+        } 
     }
 }
