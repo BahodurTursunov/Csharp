@@ -9,10 +9,13 @@
             var a = "Hello world!";
             var b = 5;
             var c = new float[10];
+
             Console.WriteLine(a.GetType());
             Console.WriteLine(b.GetType());
             Console.WriteLine(c.GetType());
+
             var t = new { Name = "Bakha", Age = 22 };
+
             Console.WriteLine(t.GetType);
             Console.WriteLine(t);
 
