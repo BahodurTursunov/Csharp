@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "this(ключевое слово this и что это такое)/1.0.0": {
+        "runtime": {
+          "this(ключевое слово this и что это такое).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "this(ключевое слово this и что это такое)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

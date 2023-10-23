@@ -1,0 +1,14 @@
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\bin\Debug\net6.0\this(ключевое слово this и что это такое).exe
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\bin\Debug\net6.0\this(ключевое слово this и что это такое).deps.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\bin\Debug\net6.0\this(ключевое слово this и что это такое).runtimeconfig.json
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\bin\Debug\net6.0\this(ключевое слово this и что это такое).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\bin\Debug\net6.0\this(ключевое слово this и что это такое).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\this(ключевое слово this и что это такое).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\this(ключевое слово this и что это такое).AssemblyInfoInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\this(ключевое слово this и что это такое).AssemblyInfo.cs
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\this(ключевое слово this и что это такое).csproj.CoreCompileInputs.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\this(ключевое слово this и что это такое).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\refint\this(ключевое слово this и что это такое).dll
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\this(ключевое слово this и что это такое).pdb
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\this(ключевое слово this и что это такое).genruntimeconfig.cache
+C:\Users\tursu\Source\Repos\ConsoleApp2\this(ключевое слово this и что это такое)\obj\Debug\net6.0\ref\this(ключевое слово this и что это такое).dll
