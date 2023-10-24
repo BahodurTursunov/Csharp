@@ -5,23 +5,32 @@
  */
 
 
-class MyClass
+class MyClass 
 {
-    public int a;
-    public static int b;
-}
+    private static int b; // static поля общие для всех объектов класса
 
+    public void SetB(int b)
+    {
+        MyClass.b = b;
+        //this.b = b; Так делать нельзя в этом случае, потому что переменная b это статическая переменная
+    }
+
+    public void PrintB()
+    {
+        Console.WriteLine(b);
+    }
+} 
 class Program
 {
     static void Main(string[] args)
     {
-        MyClass.b = 5; // здесь статическая переменная общая для всех экземпляров класса, и область памяти где хранится это поле, общая для
-                       // всех экземпляров этого класса
-
         MyClass class1 = new MyClass();
-        class1.a = 1;
+        class1.SetB(10);
 
         MyClass class2 = new MyClass();
-        class2.a = 2;
+        class2.PrintB();
+
+        //благодаря модификатору static у поля b, мы скажем так расшарили данные между экземплярами класса,
+        //то есть разные экземпляры могут использовать одни и те же данные
     }
 }
