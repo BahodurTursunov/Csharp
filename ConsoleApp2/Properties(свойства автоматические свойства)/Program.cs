@@ -22,16 +22,43 @@ class Point
     {
         return x;
     }
+
+    //propfull - снипсет
+    private int y;
+
+    public int Y
+    {
+        get
+        {
+            return y;
+        }
+        set // это акцессор set
+        {
+            if (value < 1)
+            {
+                y = 1;
+                return;
+            }
+            if (value > 5)
+            {
+                y = 5;
+                return;
+            }
+        }
+    }
+
 }
 
 class Program
 {
     static void Main(string[] args)
     {
-        Point p = new Point();
-        p.SetX(10);
-
-        int x = p.GetX();
+        Point px = new Point();
+        Point py = new Point();
+        px.SetX(10);
+        py.Y = 10;
+        int x = px.GetX();
+        int y = py.Y;
         Console.WriteLine(x);
     }
 }
