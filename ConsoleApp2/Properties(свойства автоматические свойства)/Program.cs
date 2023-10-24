@@ -5,6 +5,16 @@ class Point
 
     public void SetX(int x)
     {
+        if (x < 1)
+        {
+            this.x = 1;
+            return;
+        }
+        if (x > 5)
+        {
+            this.x = 5;
+            return;
+        }
         this.x = x;
     }
 
@@ -20,7 +30,7 @@ class Program
     {
         Point p = new Point();
         p.SetX(10);
-        
+
         int x = p.GetX();
         Console.WriteLine(x);
     }
