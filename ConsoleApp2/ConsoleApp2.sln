@@ -167,15 +167,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloading class construct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "this(ключевое слово this и что это такое)", "this(ключевое слово this и что это такое)\this(ключевое слово this и что это такое).csproj", "{E31A4D6B-D81B-410C-8AEA-920E80EB3832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties(свойства автоматические свойства)", "Properties(свойства автоматические свойства)\Properties(свойства автоматические свойства).csproj", "{19CA35B9-9E46-4F8C-AEA3-16798BBB96F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties(свойства автоматические свойства)", "Properties(свойства автоматические свойства)\Properties(свойства автоматические свойства).csproj", "{19CA35B9-9E46-4F8C-AEA3-16798BBB96F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static ключевое слово", "static ключевое слово\static ключевое слово.csproj", "{71B0FC7F-D3D9-414E-9B14-CE92F8C38D88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static ключевое слово", "static ключевое слово\static ключевое слово.csproj", "{71B0FC7F-D3D9-414E-9B14-CE92F8C38D88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static methods C#", "static methods C#\static methods C#.csproj", "{E284BE85-EA25-432B-863B-73D07217BA2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static methods C#", "static methods C#\static methods C#.csproj", "{E284BE85-EA25-432B-863B-73D07217BA2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static constructors C#", "static constructors C#\static constructors C#.csproj", "{0164CF08-3B42-4120-947C-A8622E1DF752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static constructors C#", "static constructors C#\static constructors C#.csproj", "{0164CF08-3B42-4120-947C-A8622E1DF752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static constructrs C#task", "static constructrs C#task\static constructrs C#task.csproj", "{50BBD4DC-C744-4659-800A-7A88796140F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static constructrs C#task", "static constructrs C#task\static constructrs C#task.csproj", "{50BBD4DC-C744-4659-800A-7A88796140F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static class", "static class\static class.csproj", "{EAF54370-211F-45F5-B3D7-DC0374B623D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extension methods(метод расширения)(расширяющие методы)", "extension methods(метод расширения)(расширяющие методы)\extension methods(метод расширения)(расширяющие методы).csproj", "{ADF428F8-156F-43C5-B98E-1A91757FF545}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +511,14 @@ Global
 		{50BBD4DC-C744-4659-800A-7A88796140F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50BBD4DC-C744-4659-800A-7A88796140F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50BBD4DC-C744-4659-800A-7A88796140F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF54370-211F-45F5-B3D7-DC0374B623D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF54370-211F-45F5-B3D7-DC0374B623D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF54370-211F-45F5-B3D7-DC0374B623D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF54370-211F-45F5-B3D7-DC0374B623D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF428F8-156F-43C5-B98E-1A91757FF545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF428F8-156F-43C5-B98E-1A91757FF545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF428F8-156F-43C5-B98E-1A91757FF545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF428F8-156F-43C5-B98E-1A91757FF545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -592,6 +604,8 @@ Global
 		{E284BE85-EA25-432B-863B-73D07217BA2B} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{0164CF08-3B42-4120-947C-A8622E1DF752} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{50BBD4DC-C744-4659-800A-7A88796140F9} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
+		{EAF54370-211F-45F5-B3D7-DC0374B623D1} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
+		{ADF428F8-156F-43C5-B98E-1A91757FF545} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}
