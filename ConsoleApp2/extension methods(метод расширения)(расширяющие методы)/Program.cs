@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            DateTime currentDateTime = DateTime.Now;
-            Console.WriteLine(currentDateTime.IsDayOfWeek(DayOfWeek.Thursday));
+            Student student = new Student() { FirstName = "Tursunov", LastName = "Bahodur" };
+            string fullName = student.GetFullName();
+            Console.WriteLine(fullName);
         }
 
     }

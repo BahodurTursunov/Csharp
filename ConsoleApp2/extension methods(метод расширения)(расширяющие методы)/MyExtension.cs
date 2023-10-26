@@ -2,14 +2,9 @@
 {
     static class MyExtension
     {
-        public static void Print(this DateTime datetime)
+        public static string GetFullName(this Student student)
         {
-            Console.WriteLine(datetime);
-        }
-
-        public static bool IsDayOfWeek(this DateTime datetime, DayOfWeek dayOfWeek) 
-        {
-            return datetime.DayOfWeek == dayOfWeek;
+            return student.LastName + " " + student.FirstName;
         }
     }
 }
