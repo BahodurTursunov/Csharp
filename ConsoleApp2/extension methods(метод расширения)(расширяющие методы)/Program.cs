@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             DateTime currentDateTime = DateTime.Now;
-            currentDateTime.Print();
+            Console.WriteLine(currentDateTime.IsDayOfWeek(DayOfWeek.Thursday));
         }
+
     }
 }

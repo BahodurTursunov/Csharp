@@ -6,5 +6,10 @@
         {
             Console.WriteLine(datetime);
         }
+
+        public static bool IsDayOfWeek(this DateTime datetime, DayOfWeek dayOfWeek) 
+        {
+            return datetime.DayOfWeek == dayOfWeek;
+        }
     }
 }
