@@ -163,8 +163,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulation(инкапс�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "overloading class constructors(перегрузка конструкторов класса)", "overloading class constructors(перегрузка конструкторов класса)\overloading class constructors(перегрузка конструкторов класса).csproj", "{473BF8CE-59D2-45DB-9B18-4022CEBCD45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloading class constructors(перегрузка конструкторов класса) задача", "overloading class constructors(перегрузка конструкторов класса) задача\overloading class constructors(перегрузка конструкторов класса) задача.csproj", "{E50A56F3-71EB-411F-A255-AB1999F0F2E6}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "this(ключевое слово this и что это такое)", "this(ключевое слово this и что это такое)\this(ключевое слово this и что это такое).csproj", "{E31A4D6B-D81B-410C-8AEA-920E80EB3832}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties(свойства автоматические свойства)", "Properties(свойства автоматические свойства)\Properties(свойства автоматические свойства).csproj", "{19CA35B9-9E46-4F8C-AEA3-16798BBB96F5}"
@@ -179,7 +177,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static constructrs C#task",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static class", "static class\static class.csproj", "{EAF54370-211F-45F5-B3D7-DC0374B623D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extension methods(метод расширения)(расширяющие методы)", "extension methods(метод расширения)(расширяющие методы)\extension methods(метод расширения)(расширяющие методы).csproj", "{ADF428F8-156F-43C5-B98E-1A91757FF545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "extension methods(метод расширения)(расширяющие методы)", "extension methods(метод расширения)(расширяющие методы)\extension methods(метод расширения)(расширяющие методы).csproj", "{ADF428F8-156F-43C5-B98E-1A91757FF545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partial(class, methods) частичные типы", "partial(class, methods) частичные типы\partial(class, methods) частичные типы.csproj", "{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -483,10 +483,6 @@ Global
 		{473BF8CE-59D2-45DB-9B18-4022CEBCD45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{473BF8CE-59D2-45DB-9B18-4022CEBCD45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{473BF8CE-59D2-45DB-9B18-4022CEBCD45C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E50A56F3-71EB-411F-A255-AB1999F0F2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E50A56F3-71EB-411F-A255-AB1999F0F2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E50A56F3-71EB-411F-A255-AB1999F0F2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E50A56F3-71EB-411F-A255-AB1999F0F2E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E31A4D6B-D81B-410C-8AEA-920E80EB3832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E31A4D6B-D81B-410C-8AEA-920E80EB3832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E31A4D6B-D81B-410C-8AEA-920E80EB3832}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -519,6 +515,10 @@ Global
 		{ADF428F8-156F-43C5-B98E-1A91757FF545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADF428F8-156F-43C5-B98E-1A91757FF545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADF428F8-156F-43C5-B98E-1A91757FF545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -597,7 +597,6 @@ Global
 		{22111A52-29C3-40A2-A4B1-8EE78ADBD819} = {085C7ED2-E40E-418C-827F-3E7FE70F5783}
 		{5E5A7FEE-8242-4B00-8F3C-132EB93C32BE} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{473BF8CE-59D2-45DB-9B18-4022CEBCD45C} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
-		{E50A56F3-71EB-411F-A255-AB1999F0F2E6} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{E31A4D6B-D81B-410C-8AEA-920E80EB3832} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{19CA35B9-9E46-4F8C-AEA3-16798BBB96F5} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{71B0FC7F-D3D9-414E-9B14-CE92F8C38D88} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
@@ -606,6 +605,7 @@ Global
 		{50BBD4DC-C744-4659-800A-7A88796140F9} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{EAF54370-211F-45F5-B3D7-DC0374B623D1} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{ADF428F8-156F-43C5-B98E-1A91757FF545} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
+		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}
