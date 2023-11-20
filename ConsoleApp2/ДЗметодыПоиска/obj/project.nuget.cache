@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/GG9RdmeUG0qq0nN4RSYq66N20uIk842LRlZrh52yH5SUmhHSqE2SUm/9qaynvPlQiWcdnkt+uFIPsi1MVh8Q==",
+  "dgSpecHash": "fLpfJEGaZpXRl2odkftVwlqvN+I59SyJNGavX18K4cFFr6mwR4e2z7TJrKG0cdgsQBQJKde8aEnhajbRhGJpQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\ДЗметодыПоиска\\ДЗметодыПоиска.csproj",
+  "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Csharp\\ConsoleApp2\\ДЗметодыПоиска\\ДЗметодыПоиска.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = keywordThis_ключевое_слово_this_
-build_property.ProjectDir = C:\Users\tursu\Source\Repos\ConsoleApp2\keywordThis(ключевое слово this)\
+build_property.ProjectDir = C:\Users\tursu\source\repos\Csharp\ConsoleApp2\keywordThis(ключевое слово this)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

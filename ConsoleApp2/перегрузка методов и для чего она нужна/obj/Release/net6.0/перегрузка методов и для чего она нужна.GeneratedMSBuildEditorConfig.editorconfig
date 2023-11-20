@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = перегрузка_методов_и_для_чего_она_нужна
-build_property.ProjectDir = C:\Users\tursu\Source\Repos\ConsoleApp2\перегрузка методов и для чего она нужна\
+build_property.ProjectDir = C:\Users\tursu\source\repos\Csharp\ConsoleApp2\перегрузка методов и для чего она нужна\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

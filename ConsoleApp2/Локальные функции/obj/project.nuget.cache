@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+1OZVy2IGCAt2bG0w/DM0OR4zvxTbNaRtgH7KoDArmfLv3+qqRPfWB3z3qPJn3Uv+5sAcQKuh2lE2NBmic9pHg==",
+  "dgSpecHash": "zhDFy14zILpt4RPZbkcmdT7pEOiP9r94yknypKNuhVL3mgTbQIAZPtrRuhVt2QDhAkb1raCkU8OCsQKd8g5rqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\Локальные функции\\Локальные функции.csproj",
+  "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Csharp\\ConsoleApp2\\Локальные функции\\Локальные функции.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hHeJ/gJVaPLiiHh44RiVfhO0qY5P+8aLtU0ziWtzgLh3pbpLUAEbG0yiJubZy/U2wv94adXbPMmkOaryQnRmyg==",
+  "dgSpecHash": "ByZZmy6gTbWhz9/JXwBh2Za3Fg9zQztV06ziIEMzUtK/T09HyMZUPfvK6tBiAZyrD5pRmANeX9T4RoO9Xx6y7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\день недели\\день недели.csproj",
+  "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Csharp\\ConsoleApp2\\день недели\\день недели.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

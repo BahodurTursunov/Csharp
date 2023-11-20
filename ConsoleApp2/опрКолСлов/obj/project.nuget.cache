@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W3hlvPXMWE6FYHgb31y5K4o8GjQxuCSzdjAsIhlcekXvMbSMuVDFBXvP2v0LVn6p1IFLMatVdu4mUu+CS1E+UQ==",
+  "dgSpecHash": "hyv2HhOOHw2e69YIapAVuuoYVz2t2qrtezR9FCg6xTA+UVWZhcnTd9ZtKik2zASsCc8pU+Bs6FI7wnvMFEBEwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\опрКолСлов\\опрКолСлов.csproj",
+  "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Csharp\\ConsoleApp2\\опрКолСлов\\опрКолСлов.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

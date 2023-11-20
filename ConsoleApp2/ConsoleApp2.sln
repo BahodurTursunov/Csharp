@@ -179,7 +179,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static class", "static clas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "extension methods(метод расширения)(расширяющие методы)", "extension methods(метод расширения)(расширяющие методы)\extension methods(метод расширения)(расширяющие методы).csproj", "{ADF428F8-156F-43C5-B98E-1A91757FF545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partial(class, methods) частичные типы", "partial(class, methods) частичные типы\partial(class, methods) частичные типы.csproj", "{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "partial(class, methods) частичные типы", "partial(class, methods) частичные типы\partial(class, methods) частичные типы.csproj", "{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Дано дробное число", "Дано дробное число\Дано дробное число.csproj", "{719A7EDD-A03D-4E64-946B-7A44028B8497}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -519,6 +521,10 @@ Global
 		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719A7EDD-A03D-4E64-946B-7A44028B8497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719A7EDD-A03D-4E64-946B-7A44028B8497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719A7EDD-A03D-4E64-946B-7A44028B8497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719A7EDD-A03D-4E64-946B-7A44028B8497}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -606,6 +612,7 @@ Global
 		{EAF54370-211F-45F5-B3D7-DC0374B623D1} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{ADF428F8-156F-43C5-B98E-1A91757FF545} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
 		{B52CDB3C-9F91-44D0-B470-8ABC7800A0E8} = {885370EB-3F23-4D1E-B67A-2FAC6B9DF0D0}
+		{719A7EDD-A03D-4E64-946B-7A44028B8497} = {69657366-2DD5-474B-A7AF-4D0A87500D2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F267DA0-F63E-4AA3-A3B4-CAB7BF2E326B}

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = enum_что_это_и_для_чего_это_нужно
-build_property.ProjectDir = C:\Users\tursu\Source\Repos\ConsoleApp2\enum-что это и для чего это нужно\
+build_property.ProjectDir = C:\Users\tursu\source\repos\Csharp\ConsoleApp2\enum-что это и для чего это нужно\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

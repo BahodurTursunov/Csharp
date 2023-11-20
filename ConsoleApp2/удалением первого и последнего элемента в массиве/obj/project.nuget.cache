@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTqC5ERPddUGxpFsgOkDqci9ItJiQvxJUhRqq1c8Kz4ygZkfG1CnrzQvHPkItOZFkbw4MBNrwEg3b7PnQpGTyQ==",
+  "dgSpecHash": "Vw1nYpBiMKiSwRmWfTXcNAvSbFRo2wnFprKN1QVQrGJatT7MywbvKLjxn+g40y8OdZ/bnS4YelFCViVgYuI5wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\удалением первого и последнего элемента в массиве\\удалением первого и последнего элемента в массиве.csproj",
+  "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Csharp\\ConsoleApp2\\удалением первого и последнего элемента в массиве\\удалением первого и последнего элемента в массиве.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

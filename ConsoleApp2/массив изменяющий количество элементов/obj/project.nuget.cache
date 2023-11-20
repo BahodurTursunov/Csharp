@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cJQCOYqN7Y6Uj3cGfilhCQAbmbdQbxfpas0TCLcc3YApIcuoyMkTlXHmaTMP4rj7lArVdbNEgtdnD65oD1D6ow==",
+  "dgSpecHash": "nPrWRIpFOK5BctdEm5WDUqEHMJ++JSIQHWyWtC6rC9ewTRLW5Tk7Gk+5VGfSFLXuYAMG/iX1lPDzolubDHtTJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\массив изменяющий количество элементов\\массив изменяющий количество элементов.csproj",
+  "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Csharp\\ConsoleApp2\\массив изменяющий количество элементов\\массив изменяющий количество элементов.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UJW7gaU92E6uZG/fIFSb6TBTJczHqWhsD33XNHIbIFTd8AwTwywWRCDcMTJSBE4lXj56Cve1kKCtiXMhrc974A==",
+  "dgSpecHash": "Up0vdPw3vZmEXkBaCGiESx2Vu3b9DSx72MQ9GPoJfutXRVP+ZVQBxHCzwlbudnHQqqrquS0ZYU6AL1YZwlF2KA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tursu\\Source\\Repos\\ConsoleApp2\\tiyFizzBuzz\\tiyFizzBuzz.csproj",
+  "projectFilePath": "C:\\Users\\tursu\\source\\repos\\Csharp\\ConsoleApp2\\tiyFizzBuzz\\tiyFizzBuzz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
