@@ -16,11 +16,6 @@ namespace наследование.task2
         {
             Console.WriteLine($"LastName: {person.LastName}\t FirstName: {person.FirstName}");
         }
-
-        internal void PrintFullName()
-        {
-            throw new NotImplementedException();
-        }
     }
 
 }
