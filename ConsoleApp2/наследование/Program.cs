@@ -26,9 +26,14 @@ class Program
 {
     static void Main(string[] args)
     {
+<<<<<<< HEAD
         Student student = new Student { FirstName = "Bakha", LastName = "Tursunov"};
         student.Learn();
         PrintFullName( student );
+=======
+        Person person = new Student { FirstName = "Bakha", LastName = "Tursunov"};
+        PrintFullName( person );
+>>>>>>> b4db24bc5bd799e3be737ced615cb3c8fa001cb1
        
     }
     static void PrintFullName(Person person)
