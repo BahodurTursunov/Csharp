@@ -26,8 +26,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Person person = new Student { FirstName = "Bakha", LastName = "Tursunov"};
-        PrintFullName( person );
+        Student student = new Student { FirstName = "Bakha", LastName = "Tursunov"};
+        student.Learn();
+        PrintFullName( student );
        
     }
     static void PrintFullName(Person person)
