@@ -14,10 +14,11 @@ class Point2D : MyClass
         Y = y;
         Console.WriteLine("Point2D");
     }
+
     public int X { get; set; }
     public int Y { get; set; }
 
-    public void Print2D()
+    public void Print()
     {
         Console.WriteLine("X:\t" + X);
         Console.WriteLine("Y:\t" + Y);
@@ -31,10 +32,12 @@ class Point3D : Point2D
         Z = z;
         Console.WriteLine("Point3D");
     }
+
     public int Z { get; set; }
-    public void Print3D()
+
+    public void Print()
     {
-        base.Print2D();
+        base.Print();
         Console.WriteLine("Z:\t" + Z);
     }
 }
@@ -44,6 +47,6 @@ class Program
     static void Main(string[] args)
     {
         Point3D point3D = new Point3D(3,6,8);
-        point3D.Print3D();
+        point3D.Print();
     }
 }
