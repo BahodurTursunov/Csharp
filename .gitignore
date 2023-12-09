@@ -1,5 +1,8 @@
+
 vs
 bin
+.bin
+.suo
 obj
 .vs
 .vsidx
@@ -7,3 +10,5 @@ obj
 ConsoleApp2/.vs
 .v2
 .suo
+.futdcache.v2
+consoleapp2.metadata.v7.bin
